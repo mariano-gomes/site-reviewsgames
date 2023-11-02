@@ -52,6 +52,7 @@ header h1 {
 .cards {
   display: flex;
   gap: 30px;
+  justify-content: center;
 }
 
 .cards-card {
